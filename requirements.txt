@@ -1,0 +1,13 @@
+sentence-transformers
+mteb
+langchain
+langchain-text-splitters
+langchain-community
+faiss-cpu
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+tqdm
+pydantic

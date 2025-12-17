@@ -1,0 +1,61 @@
+query_id,query_text,query_language,section_num
+q_001,What happens if a new criminal law is less severe than the previous one?,EN,4
+q_002,Is a person criminally responsible if they were forced to commit a crime by physical compulsion?,EN,77
+q_003,What is the penalty for treason committed by a citizen against the Republic?,EN,102
+q_004,If someone spreads false news that could harm national unity, what is the punishment?,EN,113
+q_005,What constitutes the crime of misappropriation of public funds?,EN,184
+q_006,What are the penalties for counterfeiting bank notes or coins?,EN,211
+q_007,What is the definition of theft according to the penal code?,EN,318
+q_008,If I find lost property and keep it without trying to find the owner, is that a crime?,EN,319
+q_009,What is the prison sentence for issuing a cheque without sufficient cover (bounced check)?,EN,253
+q_010,How is murder defined and what is the punishment?,EN,275
+q_011,What distinguishes capital murder from simple murder?,EN,276
+q_012,What are the penalties for someone who commits rape?,EN,296
+q_013,Is abortion a crime and what are the penalties for a woman who consents to it?,EN,337
+q_014,What is the punishment for bigamy?,EN,359
+q_015,If a husband commits adultery, is he punishable by law?,EN,361
+q_016,What are the penalties for practicing witchcraft that disturbs public order?,EN,251
+q_017,Can a person be punished for failing to assist someone in danger?,EN,283
+q_018,What constitutes the offence of corruption of youth?,EN,344
+q_019,What are the penalties for sexual harassment in the workplace?,EN,349.1
+q_020,Is female genital mutilation a punishable offence?,EN,321.1
+q_021,What is the penalty for using a false medical certificate?,EN,259
+q_022,If a public servant demands a bribe to perform their duty, what is the crime?,EN,134
+q_023,What is the penalty for escaping from lawful custody?,EN,193
+q_024,What acts constitute contempt of the President of the Republic?,EN,153
+q_025,Is it a crime to wear a military uniform if you are not a soldier?,EN,218
+q_026,What is the penalty for arson or setting fire to a building?,EN,227
+q_027,What are the consequences of engaging in insider trading?,EN,155.1
+q_028,How does the law define a recidivist?,EN,88
+q_029,Can a foreigner be tried in Cameroon for crimes committed abroad?,EN,10|11
+q_030,What is the age of criminal responsibility?,EN,80
+q_031,If I act in self-defence, am I criminally responsible?,EN,84
+q_032,What is the duration of a temporary closure of an establishment?,EN,29.2
+q_033,How is a sentence of imprisonment calculated in days?,EN,28
+q_034,What constitutes an armed riot?,EN,233
+q_035,What is the penalty for defamation?,EN,305
+q_036,If a landlord fraudulently evicts a tenant, what is the penalty?,EN,373.1
+q_037,What is the punishment for forced marriage?,EN,356
+q_038,Is homosexuality a crime in Cameroon?,EN,407.1
+q_039,What happens if a driver flees the scene of an accident to avoid liability?,EN,290
+q_040,What are the penalties for trafficking in toxic waste?,EN,260.1
+q_041,Quelle est la définition de la légitime défense ?,FR,84
+q_042,Quelles sont les peines pour détournement de biens publics ?,FR,184
+q_043,Un citoyen peut-il être condamné pour trahison ?,FR,102
+q_044,Quelle est la peine pour le vol aggravé avec port d'arme ?,FR,320
+q_045,Est-ce que l'émission d'un chèque sans provision est punie par la loi ?,FR,253
+q_046,Qu'est-ce que le délit d'adultère pour une femme mariée ?,FR,361
+q_047,Quelles sont les sanctions pour la corruption d'un fonctionnaire ?,FR,134
+q_048,La pratique de la sorcellerie est-elle illégale ?,FR,251
+q_049,Quelle est la peine pour un assassinat (meurtre avec préméditation) ?,FR,276
+q_050,Le harcèlement sexuel est-il puni par le code pénal ?,FR,349.1
+q_051,Quelles sont les peines pour l'excision ou la mutilation génitale ?,FR,321.1
+q_052,Un médecin qui rédige un faux certificat médical risque-t-il la prison ?,FR,259
+q_053,Quelle est la peine pour non-assistance à personne en danger ?,FR,283
+q_054,L'homosexualité est-elle considérée comme un délit ?,FR,407.1
+q_055,Quelles sont les sanctions pour la diffusion de fausses nouvelles ?,FR,240
+q_056,En quoi consiste le délit de filouterie de loyer ?,FR,373.1
+q_057,Quelle est la définition de l'outrage au Président de la République ?,FR,153
+q_058,Quelles sont les conditions pour la libération conditionnelle ?,FR,63
+q_059,Qu'est-ce que la banqueroute frauduleuse ?,FR,333
+q_060,Un mineur de 14 ans est-il pénalement responsable ?,FR,80
