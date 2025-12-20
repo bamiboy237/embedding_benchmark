@@ -7,6 +7,7 @@ requires-python = ">=3.11"
 dependencies = [
     "hf>=1.2.3",
     "huggingface-hub>=1.2.3",
+    "langchain>=1.2.0",
     "langchain-text-splitters>=1.1.0",
     "openpyxl>=3.1.5",
     "pandas>=2.3.3",

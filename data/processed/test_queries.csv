@@ -1,61 +1,61 @@
 query_id,query_text,query_language,section_num
-q_001,What happens if a new criminal law is less severe than the previous one?,EN,4
-q_002,Is a person criminally responsible if they were forced to commit a crime by physical compulsion?,EN,77
-q_003,What is the penalty for treason committed by a citizen against the Republic?,EN,102
-q_004,If someone spreads false news that could harm national unity, what is the punishment?,EN,113
-q_005,What constitutes the crime of misappropriation of public funds?,EN,184
-q_006,What are the penalties for counterfeiting bank notes or coins?,EN,211
-q_007,What is the definition of theft according to the penal code?,EN,318
-q_008,If I find lost property and keep it without trying to find the owner, is that a crime?,EN,319
-q_009,What is the prison sentence for issuing a cheque without sufficient cover (bounced check)?,EN,253
-q_010,How is murder defined and what is the punishment?,EN,275
-q_011,What distinguishes capital murder from simple murder?,EN,276
-q_012,What are the penalties for someone who commits rape?,EN,296
-q_013,Is abortion a crime and what are the penalties for a woman who consents to it?,EN,337
-q_014,What is the punishment for bigamy?,EN,359
-q_015,If a husband commits adultery, is he punishable by law?,EN,361
-q_016,What are the penalties for practicing witchcraft that disturbs public order?,EN,251
-q_017,Can a person be punished for failing to assist someone in danger?,EN,283
-q_018,What constitutes the offence of corruption of youth?,EN,344
-q_019,What are the penalties for sexual harassment in the workplace?,EN,349.1
-q_020,Is female genital mutilation a punishable offence?,EN,321.1
-q_021,What is the penalty for using a false medical certificate?,EN,259
-q_022,If a public servant demands a bribe to perform their duty, what is the crime?,EN,134
-q_023,What is the penalty for escaping from lawful custody?,EN,193
-q_024,What acts constitute contempt of the President of the Republic?,EN,153
-q_025,Is it a crime to wear a military uniform if you are not a soldier?,EN,218
-q_026,What is the penalty for arson or setting fire to a building?,EN,227
-q_027,What are the consequences of engaging in insider trading?,EN,155.1
-q_028,How does the law define a recidivist?,EN,88
-q_029,Can a foreigner be tried in Cameroon for crimes committed abroad?,EN,10|11
-q_030,What is the age of criminal responsibility?,EN,80
-q_031,If I act in self-defence, am I criminally responsible?,EN,84
-q_032,What is the duration of a temporary closure of an establishment?,EN,29.2
-q_033,How is a sentence of imprisonment calculated in days?,EN,28
-q_034,What constitutes an armed riot?,EN,233
-q_035,What is the penalty for defamation?,EN,305
-q_036,If a landlord fraudulently evicts a tenant, what is the penalty?,EN,373.1
-q_037,What is the punishment for forced marriage?,EN,356
-q_038,Is homosexuality a crime in Cameroon?,EN,407.1
-q_039,What happens if a driver flees the scene of an accident to avoid liability?,EN,290
-q_040,What are the penalties for trafficking in toxic waste?,EN,260.1
-q_041,Quelle est la définition de la légitime défense ?,FR,84
-q_042,Quelles sont les peines pour détournement de biens publics ?,FR,184
-q_043,Un citoyen peut-il être condamné pour trahison ?,FR,102
-q_044,Quelle est la peine pour le vol aggravé avec port d'arme ?,FR,320
-q_045,Est-ce que l'émission d'un chèque sans provision est punie par la loi ?,FR,253
-q_046,Qu'est-ce que le délit d'adultère pour une femme mariée ?,FR,361
-q_047,Quelles sont les sanctions pour la corruption d'un fonctionnaire ?,FR,134
-q_048,La pratique de la sorcellerie est-elle illégale ?,FR,251
-q_049,Quelle est la peine pour un assassinat (meurtre avec préméditation) ?,FR,276
-q_050,Le harcèlement sexuel est-il puni par le code pénal ?,FR,349.1
-q_051,Quelles sont les peines pour l'excision ou la mutilation génitale ?,FR,321.1
-q_052,Un médecin qui rédige un faux certificat médical risque-t-il la prison ?,FR,259
-q_053,Quelle est la peine pour non-assistance à personne en danger ?,FR,283
-q_054,L'homosexualité est-elle considérée comme un délit ?,FR,407.1
-q_055,Quelles sont les sanctions pour la diffusion de fausses nouvelles ?,FR,240
-q_056,En quoi consiste le délit de filouterie de loyer ?,FR,373.1
-q_057,Quelle est la définition de l'outrage au Président de la République ?,FR,153
-q_058,Quelles sont les conditions pour la libération conditionnelle ?,FR,63
-q_059,Qu'est-ce que la banqueroute frauduleuse ?,FR,333
-q_060,Un mineur de 14 ans est-il pénalement responsable ?,FR,80
+q_001,If they pass a new law and the punishment is smaller than before, which one will they use on me?,EN,4
+q_002,If someone forced me by power to commit a crime, will I still be held responsible?,EN,77
+q_003,What is the punishment for a Cameroonian who betrays the country or helps our enemies?,EN,102
+q_004,If someone is busy spreading fake news that can cause trouble in the country, what does the law say?,EN,113
+q_005,What exactly is the crime when a big man eats or misuses public money?,EN,184
+q_006,What happens to people who are caught printing fake CFA notes or coins?,EN,211
+q_007,How does the law define theft or when you carry someone's thing without permission?,EN,318
+q_008,If I pick up something that was lost and keep it for myself, is that a crime in Cameroon?,EN,319
+q_009,If I issue a cheque and the person goes to the bank and finds no money, can I be locked up?,EN,253
+q_010,How does the law define murder and what is the punishment for taking someone's life?,EN,275
+q_011,What is the difference between simple murder and the one where you planned it before (assassination)?,EN,276
+q_012,What are the legal consequences for a person who commits rape?,EN,296
+q_013,Is it a crime for a woman to remove a pregnancy, and what happens to her if she agrees to it?,EN,337
+q_014,What is the law regarding bigamy or marrying two wives when the first marriage was monogamy?,EN,359
+q_015,If a married man is caught cheating, can he be punished by the law?,EN,361
+q_016,What does the law say about people practicing witchcraft (juju) that disturbs the peace?,EN,251
+q_017,Can you get in trouble for just looking at someone in danger without helping them?,EN,283
+q_018,What does the law say about people who spoil young children or lead them into bad habits?,EN,344
+q_019,What is the punishment for a boss or colleague who is harassing someone sexually at work?,EN,349.1
+q_020,Is it illegal to perform excision or mutilate a girl's private parts in Cameroon?,EN,321.1
+q_021,What is the penalty for using a fake medical report to get out of work or for other things?,EN,259
+q_022,If a government worker asks for 'motivation' or a bribe to do their job, what is the crime called?,EN,134
+q_023,What happens to a prisoner who manages to escape from the police or the cell?,EN,193
+q_024,What kind of things can be called 'insulting the President' (contempt)?,EN,153
+q_025,Is it a crime for a civilian to wear camouflage or military uniform?,EN,218
+q_026,What is the sentence for someone who sets fire to a house or a building on purpose?,EN,227
+q_027,What happens to people who use 'inside information' to make money on the stock market illegally?,EN,155.1
+q_028,How does the law treat a 'recidivist' or someone who is always going back to prison for the same crimes?,EN,88
+q_029,Can the Cameroon government judge a foreigner for a crime they committed outside the country?,EN,10|11
+q_030,At what age can a child be arrested and held responsible for a crime?,EN,80
+q_031,If I hit someone because I was defending myself, will the law still punish me?,EN,84
+q_032,For how long can the authorities shut down a business or an agency as a punishment?,EN,29.2
+q_033,How do they calculate the number of days for a prison sentence?,EN,28
+q_034,What does the law consider as an 'armed riot' or a violent protest?,EN,233
+q_035,What is the punishment for spoiling someone's name or defamation?,EN,305
+q_036,If a landlord throws out a tenant forcefully or illegally, what does the law say?,EN,373.1
+q_037,What is the law regarding people who force a girl to get married against her wish?,EN,356
+q_038,Is it true that homosexuality is a crime in Cameroon?,EN,407.1
+q_039,If a driver knocks someone down and runs away to avoid the police, what happens?,EN,290
+q_040,What are the penalties for people who bring or dump toxic waste in our environment?,EN,260.1
+q_041,What exactly counts as 'self-defence' in our law?,EN,84
+q_042,What happens to those who chop government money or public property?,EN,184
+q_043,Can a regular citizen be charged with treason against the state?,EN,102
+q_044,What is the punishment for 'grand theft' or stealing with a gun or weapon?,EN,320
+q_045,Can I be sued or arrested for giving a 'bounced' check?,EN,253
+q_046,Is it a crime for a married woman to have a boyfriend?,EN,361
+q_047,What are the consequences of bribing a civil servant or a police officer?,EN,134
+q_048,Is it actually illegal to practice sorcery or 'nyongo' in Cameroon?,EN,251
+q_049,What is the sentence for someone who planned to kill another person (assassination)?,EN,276
+q_050,Can someone be sent to jail for sexual harassment?,EN,349.1
+q_051,What does the law say about those who perform FGM on children?,EN,321.1
+q_052,If a doctor gives a fake sick leave or medical certificate, will he go to jail?,EN,259
+q_053,If I see an accident and just pass without helping, can the police arrest me?,EN,283
+q_054,Is being a 'two-two' (homosexual) considered a crime by the state?,EN,407.1
+q_055,What happens to people who are always posting lies on social media to cause panic?,EN,240
+q_056,What is the crime for a tenant who refuses to pay rent for many months?,EN,373.1
+q_057,What acts are considered an insult to the Head of State?,EN,153
+q_058,What do you need to do to get 'liberation conditionnelle' or early release from prison?,EN,63
+q_059,What happens when a businessman hides his money and claims he is broke just to avoid paying debts?,EN,333
+q_060,Can a 14-year-old child be taken to the station and charged for a crime?,EN,80
